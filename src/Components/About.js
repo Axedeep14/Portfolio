@@ -10,8 +10,8 @@ class About extends Component {
                   <div class="col-lg-6 col-md-12">
                     <div class="card-body">
                       <div class="h4 mt-0 title">About</div>
-                      <p>Hello! I am Anthony Barnett. Web Developer, Graphic Designer and Photographer.</p>
-                      <p>Creative CV is a HTML resume template for professionals. Built with Bootstrap 4, Now UI Kit and FontAwesome, this modern and responsive design template is perfect to showcase your portfolio, skills and experience. <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a></p>
+                      <p>Enthusiastic Web App Developer and Android App Developer eagerly looking for opportunities to contribute to team success through hard work, attention to detail and organizational skills.</p>
+                      <p> Motivated to learn and grow in this industry <a href="https://www.linkedin.com/in/axedeep14/" target="_blank">Learn More</a></p>
                     </div>
                   </div>
                   <div class="col-lg-6 col-md-12">
