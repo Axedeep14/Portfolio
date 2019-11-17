@@ -24,6 +24,9 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
+ .btn-facebook {
+  background: url(../images/facebook.png) no-repeat 6px center;
+}
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
