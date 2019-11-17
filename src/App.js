@@ -17,7 +17,7 @@ function App() {
       <ProfilePage></ProfilePage>
       <About></About>
       <Skills></Skills>
-      <Portfolio></Portfolio>
+      {/* <Portfolio></Portfolio> */}
       <Experience></Experience>
       <References></References>
       <Contact></Contact>

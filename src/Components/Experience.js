@@ -11,14 +11,15 @@ class Experience extends Component {
           <div class="row">
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
               <div class="card-body cc-experience-header">
-                <p>March 2016 - Present</p>
-                <div class="h5">CreativeM</div>
+                <p>November 2019 - Present</p>
+                <div class="h5">Group Project</div>
               </div>
             </div>
             <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
               <div class="card-body">
-                <div class="h5">Front End Developer</div>
-                <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+                <div class="h5">Full Stack Web Developer (MERN)</div>
+                <p>Responsible for developing good User Interface based on REACT for the existing application (E-commerce)<br/>
+                    UI is being developed using Html 5, CSS, BootStrap, JQuery and over all structure is based on REACT with whole backend on NodeJS</p>
               </div>
             </div>
           </div>
@@ -27,14 +28,15 @@ class Experience extends Component {
           <div class="row">
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
               <div class="card-body cc-experience-header">
-                <p>April 2014 - March 2016</p>
-                <div class="h5">WebNote</div>
+                <p>November 2019 - November 2019</p>
+                <div class="h5">Product And Band Management Simulation Project</div>
               </div>
             </div>
             <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
               <div class="card-body">
-                <div class="h5">Web Developer</div>
-                <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+                <div class="h5">Business Analyst</div>
+                <p>In this project, analysis of company's products was done<br/>
+                  Based on the current market shares ,competitors strategy and various other aspects the decisions of company had to be taken for maximizing the over all profit</p>
               </div>
             </div>
           </div>
@@ -43,70 +45,34 @@ class Experience extends Component {
           <div class="row">
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
               <div class="card-body cc-experience-header">
-                <p>April 2013 - February 2014</p>
+                <p>May 2019 - July 2019</p>
+                <div class="h5">Self (Summer College Project)</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5"> Excel Application Developer</div>
+                <p>The application was all about predicting the winner of Cricket WorldCup 2019<br/>
+                    This application used various stats of cricketer and based on that it calculates the runs and wickets taken by the teams<br/>
+                    On the basis of the result calculated it gives its prediction</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-experience-header">
+                <p>November 2018 - January 2019</p>
                 <div class="h5">WEBM</div>
               </div>
             </div>
             <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
               <div class="card-body">
-                <div class="h5">Intern</div>
-                <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="section">
-      <div class="container cc-education">
-        <div class="h4 text-center mb-4 title">Education</div>
-        <div class="card">
-          <div class="row">
-            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-              <div class="card-body cc-education-header">
-                <p>2013 - 2015</p>
-                <div class="h5">Master's Degree</div>
-              </div>
-            </div>
-            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-              <div class="card-body">
-                <div class="h5">Master of Information Technology</div>
-                <p class="category">University of Computer Science</p>
-                <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="row">
-            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-              <div class="card-body cc-education-header">
-                <p>2009 - 2013</p>
-                <div class="h5">Bachelor's Degree</div>
-              </div>
-            </div>
-            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-              <div class="card-body">
-                <div class="h5">Bachelor of Computer Science</div>
-                <p class="category">University of Computer Science</p>
-                <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="row">
-            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-              <div class="card-body cc-education-header">
-                <p>2007 - 2009</p>
-                <div class="h5">High School</div>
-              </div>
-            </div>
-            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-              <div class="card-body">
-                <div class="h5">Science and Mathematics</div>
-                <p class="category">School of Secondary board</p>
-                <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+                <div class="h5">Infotsav (Techno Managerial Fest App)</div>
+                <p>Wrote clear, concise code in Java and XML for various components<br/>
+                  Designed and tested applications for Android devices<br/>
+                  Stored, retrieved and manipulated data with the help of Google Firebase</p>
               </div>
             </div>
           </div>

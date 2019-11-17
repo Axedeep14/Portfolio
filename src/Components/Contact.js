@@ -12,56 +12,24 @@ class Contact extends Component {
                 <div class="card mb-0" data-aos="zoom-in">
                   <div class="h4 text-center title">Contact Me</div>
                   <div class="row">
-                    <div class="col-md-6">
+                     <div class="col-md-6"> 
+                       <div class="card-body">
+                       <img src="images/reference-image-1.jpg" alt="Image"/>
+                      </div> 
+                     </div>
+                     <div class="col-md-6" >
                       <div class="card-body">
-                        <form action="https://formspree.io/your@email.com" method="POST">
-                          <div class="p pb-3"><strong>Feel free to contact me </strong></div>
-                          <div class="row mb-3">
-                            <div class="col">
-                              <div class="input-group"><span class="input-group-addon"><i class="fa fa-user-circle"></i></span>
-                                <input class="form-control" type="text" name="name" placeholder="Name" required="required"/>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="row mb-3">
-                            <div class="col">
-                              <div class="input-group"><span class="input-group-addon"><i class="fa fa-file-text"></i></span>
-                                <input class="form-control" type="text" name="Subject" placeholder="Subject" required="required"/>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="row mb-3">
-                            <div class="col">
-                              <div class="input-group"><span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" type="email" name="_replyto" placeholder="E-mail" required="required"/>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="row mb-3">
-                            <div class="col">
-                              <div class="form-group">
-                                <textarea class="form-control" name="message" placeholder="Your Message" required="required"></textarea>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="row">
-                            <div class="col">
-                              <button class="btn btn-primary" type="submit">Send</button>
-                            </div>
-                          </div>
-                        </form>
+                        <p class="mb-0" style={{textAlign : "center"}}><strong>College Address </strong></p>
+                        <p class="pb-2" style={{textAlign : "center"}}>Room No.255,BH-1,ABV-IIITM,Gwalior,Madhya Pradesh,India-474010</p>
+                        <p class="mb-0" style={{textAlign : "center"}}><strong>Home Address </strong></p>
+                        <p class="pb-2" style={{textAlign : "center"}}>B-64,Flat No.F-2, Shankar Vihar-B,Siddarth Nagar,Jaipur,Rajasthan,India-302017</p>
+                        <p class="mb-0" style={{textAlign : "center"}}><strong>Phone</strong></p>
+                        {/* <p class="pb-2" style={{textAlign : "center"}}>+918769449558</p> */}
+                        <a href="callto:+918769449558">+918769449558</a>
+                        <p class="mb-0" style={{textAlign : "center"}}><strong>Email</strong></p>
+                        <a href="mailto:deepakkpaliwal@gmail.com">deepakkpaliwal@gmail.com</a>
                       </div>
-                    </div>
-                    <div class="col-md-6">
-                      <div class="card-body">
-                        <p class="mb-0"><strong>Address </strong></p>
-                        <p class="pb-2">140, City Center, New York, U.S.A</p>
-                        <p class="mb-0"><strong>Phone</strong></p>
-                        <p class="pb-2">+1718-111-0011</p>
-                        <p class="mb-0"><strong>Email</strong></p>
-                        <p>anthony@company.com</p>
-                      </div>
-                    </div>
+                     </div> 
                   </div>
                 </div>
               </div>
@@ -70,11 +38,8 @@ class Contact extends Component {
         </div>
       </div>
       <footer class="footer">
-          <div class="container text-center"><a class="cc-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="#"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
-          <div class="h4 title text-center">Anthony Barnett</div>
-          <div class="text-center text-muted">
-            <p>&copy; Creative CV. All rights reserved.<br/>Design - <a class="credit" href="https://templateflip.com" target="_blank">TemplateFlip</a></p>
-          </div>
+          <div class="container text-center"><a class="cc-facebook btn btn-link" href="https://www.facebook.com/deepak.paliwal.1042"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="https://twitter.com/1834671797d344b"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="https://www.instagram.com/deepakpaliwal18/"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
+          <div class="h4 title text-center">DEEPAK PALIWAL</div>
         </footer>
     </div>
         );

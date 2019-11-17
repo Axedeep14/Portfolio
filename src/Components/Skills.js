@@ -10,14 +10,14 @@ class Skills extends Component {
                 <div class="card-body">
                   <div class="row">
                     <div class="col-md-6">
-                      <div class="progress-container progress-primary"><span class="progress-badge">HTML</span>
+                      <div class="progress-container progress-primary"><span class="progress-badge">C / C++</span>
                         <div class="progress">
                           <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "80%"}}></div><span class="progress-value">80%</span>
                         </div>
                       </div>
                     </div>
                     <div class="col-md-6">
-                      <div class="progress-container progress-primary"><span class="progress-badge">CSS</span>
+                      <div class="progress-container progress-primary"><span class="progress-badge">REACT and NodeJS</span>
                         <div class="progress">
                           <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "75%"}}></div><span class="progress-value">75%</span>
                         </div>
@@ -28,30 +28,30 @@ class Skills extends Component {
                     <div class="col-md-6">
                       <div class="progress-container progress-primary"><span class="progress-badge">JavaScript</span>
                         <div class="progress">
-                          <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "60%"}}></div><span class="progress-value">60%</span>
+                          <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "65%"}}></div><span class="progress-value">65%</span>
                         </div>
                       </div>
                     </div>
                     <div class="col-md-6">
-                      <div class="progress-container progress-primary"><span class="progress-badge">SASS</span>
+                      <div class="progress-container progress-primary"><span class="progress-badge">SQL and MongoDB</span>
                         <div class="progress">
-                          <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "60%"}}></div><span class="progress-value">60%</span>
+                          <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "70%"}}></div><span class="progress-value">70%</span>
                         </div>
                       </div>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-md-6">
-                      <div class="progress-container progress-primary"><span class="progress-badge">Bootstrap</span>
+                      <div class="progress-container progress-primary"><span class="progress-badge">HTML and CSS</span>
                         <div class="progress">
                           <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "75%"}}></div><span class="progress-value">75%</span>
                         </div>
                       </div>
                     </div>
                     <div class="col-md-6">
-                      <div class="progress-container progress-primary"><span class="progress-badge">Photoshop</span>
+                      <div class="progress-container progress-primary"><span class="progress-badge">Android Development</span>
                         <div class="progress">
-                          <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "70%"}}></div><span class="progress-value">70%</span>
+                          <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "60%"}}></div><span class="progress-value">60%</span>
                         </div>
                       </div>
                     </div>
