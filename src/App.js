@@ -8,7 +8,7 @@ import Skills from './Components/Skills';
 import Portfolio from './Components/Portfolio';
 import Experience from './Components/Experience';
 import Contact from './Components/Contact';
-import References from './Components/References';
+import Education from './Components/Education';
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
       <Skills></Skills>
       {/* <Portfolio></Portfolio> */}
       <Experience></Experience>
-      <References></References>
+      <Education></Education>
       <Contact></Contact>
     </div>
   );

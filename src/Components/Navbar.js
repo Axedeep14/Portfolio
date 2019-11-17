@@ -17,6 +17,7 @@ class Navbar extends Component {
                     <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
                     {/* <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li> */}
                     <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
                   </ul>
                 </div>

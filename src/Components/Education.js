@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-class References extends Component {
+class Education extends Component {
     render() {
         return (
-            <div class="section" id="reference">
+            <div class="section" id="education">
       <div class="container cc-reference">
         <div class="h4 mb-4 text-center title">Education</div>
         <div class="card" data-aos="zoom-in">
@@ -15,7 +15,7 @@ class References extends Component {
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <div class="row">
-                  <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-1.jpg" alt="Image"/>
+                  <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/ABV_IIITM.jfif" alt="Image"/>
                     <div class="h5 pt-2">Dual Degree</div>
                     <p class="category">2017 - 2022</p>
                   </div>
@@ -28,14 +28,14 @@ class References extends Component {
               </div>
               <div class="carousel-item">
                 <div class="row">
-                  <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-2.jpg" alt="Image"/>
+                  <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/BVB_Vidyashram.jfif" alt="Image"/>
                     <div class="h5 pt-2">High School</div>
                     <p class="category">2010 - 2017</p>
                   </div>
                   <div class="col-lg-10 col-md-9">
                   <div class="h5">Science and Mathematics</div>
                 <p class="category">Bharatiya Vidya Bhavan Vidyashram, Jaipur </p>
-                <p style={{textAlign : "left"}}>Graduated class 10th with CGPA of 9.6 and class 12th with 93.6% in CBSE board examination. I was elected for Prefectorial Council of School from class 6th onwards till class 12th. I was subject topper in class 12th boards examination in Information Technology, Chemistry and Physics. </p>
+                <p style={{textAlign : "left"}}>Graduated class 10th with CGPA of 9.6 and class 12th with 93.6% in CBSE board examination. EHlected for Prefectorial Council of School from class 6th onwards till class 12th. Subject topper in class 12th boards examination in Information Technology, Chemistry and Physics. </p>
                   </div>
                 </div>
               </div>
@@ -48,4 +48,4 @@ class References extends Component {
     }
 }
 
-export default References;
+export default Education;

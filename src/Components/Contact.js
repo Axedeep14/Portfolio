@@ -14,7 +14,7 @@ class Contact extends Component {
                   <div class="row">
                      <div class="col-md-6"> 
                        <div class="card-body">
-                       <img src="images/reference-image-1.jpg" alt="Image"/>
+                       <img src="images/Contact.jpg" alt="Image" height ="280"/>
                       </div> 
                      </div>
                      <div class="col-md-6" >
@@ -40,6 +40,9 @@ class Contact extends Component {
       <footer class="footer">
           <div class="container text-center"><a class="cc-facebook btn btn-link" href="https://www.facebook.com/deepak.paliwal.1042"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="https://twitter.com/1834671797d344b"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="https://www.instagram.com/deepakpaliwal18/"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
           <div class="h4 title text-center">DEEPAK PALIWAL</div>
+          <div class="text-center text-muted">
+          <p>&copy; Axedeep14.<br/> All rights reserved.</p>
+          </div>
         </footer>
     </div>
         );
