@@ -4,7 +4,7 @@ class Contact extends Component {
     render() {
         return (
             <div class="section" id="contact">
-      <div class="cc-contact-information" style={{backgroundImage: "url('images/staticmap.png')"}}>
+      <div class="cc-contact-information" style={{ backgroundRepeat: "space", backgroundImage: "url('images/Map.png')"}}>
         <div class="container">
           <div class="cc-contact">
             <div class="row">
