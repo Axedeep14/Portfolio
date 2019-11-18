@@ -24,8 +24,8 @@ class Contact extends Component {
                         <p class="mb-0" style={{textAlign : "center"}}><strong>Home Address </strong></p>
                         <p class="pb-2" style={{textAlign : "center"}}>B-64,Flat No.F-2, Shankar Vihar-B,Siddarth Nagar,Jaipur,Rajasthan,India-302017</p>
                         <p class="mb-0" style={{textAlign : "center"}}><strong>Phone</strong></p>
-                        {/* <p class="pb-2" style={{textAlign : "center"}}>+918769449558</p> */}
-                        <a href="callto:+918769449558">+918769449558</a>
+                        {/* <p class="pb-2" style={{textAlign : "center"}}>+91 8769449558</p> */}
+                        <a href="tel:+91 8769449558">+91 8769449558</a>
                         <p class="mb-0" style={{textAlign : "center"}}><strong>Email</strong></p>
                         <a href="mailto:deepakkpaliwal@gmail.com">deepakkpaliwal@gmail.com</a>
                       </div>
